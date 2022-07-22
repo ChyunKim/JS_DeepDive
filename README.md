@@ -1,5 +1,6 @@
-# practice-ex
-연습 문제를 통해 Javascript, React 공부
+# JS-DeepDive
+모던 자바스크립트 DeepDive 책을 통해 자바스크립트의 기본개념과 동작원리에 대해 학습
+주차별로 학습내용 기술
 
 ## week1.
 - [std1 - if문](https://github.com/ChyunKim/practice-ex/blob/main/week1/std1.js)
