@@ -11,7 +11,7 @@ while(true) {
     i++;
     if(i === 3) break;
 }
-// break 문은 코드 블록을 탈풀한다.
+// break 문은 코드 블록을 탈출한다.
 // 레이블문, 반복문, switch 문을 제외한 블록에서 사용시 SyntaxError 가 발생한다.
 
 var i = 0;
