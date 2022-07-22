@@ -1,4 +1,4 @@
-# JS-DeepDive
+# JS_DeepDive
 모던 자바스크립트 DeepDive 책을 통해 자바스크립트의 기본개념과 동작원리에 대해 학습
 <br>
 <br>
