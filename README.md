@@ -9,7 +9,7 @@
 ✔ 코드를 작성하고 예제문제를 풀어봄으로써 개념 학습<br>
 ✔ 코어 자바스크립트 책과 병행하며 학습 <br>
 <br><strong>
-👉 React 학습 전 DeepDive를 통해 JS 기본개념과 동작원리를 정확히 익히자!
+React 학습 전 DeepDive를 통해 JS 기본개념과 동작원리를 정확히 익히자!
 </strong>
 <br>
 <br>
