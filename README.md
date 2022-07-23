@@ -23,7 +23,6 @@
 - [std7 - scope](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std7.js)
 
 <br>
-<br>
 
 ## 💡 보충내용 <br>
 - [plus1 - hoisting](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/plus1.md)
