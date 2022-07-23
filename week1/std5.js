@@ -1,3 +1,4 @@
+// 객체 (Object)
 // 객체 리터럴
 var person = {
     name: 'Lee',

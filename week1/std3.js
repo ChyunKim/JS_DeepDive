@@ -1,4 +1,4 @@
-// for문, while문
+// for문, while문, do while문
 // for 반목문을 while 반복문과 do while문으로 바꿔보세요.
 
 for (var i = 0; i<3; i++){
