@@ -21,6 +21,7 @@
 - [std6 - function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std6.js)
 - [std7 - scope](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std7.js)
 - [std8 - property](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std8.js)
+- [std9 - constructor function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std9.js)
 <br>
 
 ## 💡 보충내용 <br>
