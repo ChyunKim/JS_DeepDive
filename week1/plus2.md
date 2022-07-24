@@ -61,7 +61,8 @@ user.fullName = "Test"; // Error
 getter 메소드만 구현되어 있기 때문에 ```user.fullName```을 사용해 값을 할당하려고 하면 에러가 발생<br>
 
 ## getter / setter 활용
-1. 프로퍼티의 값을 원하는대로 통제 가능
+
+**1. 프로퍼티의 값을 원하는대로 통제 가능**
 
 ```javascript
 let user = {
@@ -80,7 +81,7 @@ let user = {
 user.name = 'l'                         // setter if문에 의해 alert창 
 ```
 
-2. 호환성을 위해 사용
+**2. 호환성을 위해 사용**
 
 아래와 같이 ```name```과 ```age```를 사용해서 사용자를 나타내는 객체 구현
 ```javascript
