@@ -23,6 +23,7 @@
 - [std8 - property](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std8.js)
 - [std9 - constructor function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std9.js)
 - [std10 - first-class citizen](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/std10.js)
+- [std11 - prototype](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/std11.js)
 <br>
 
 ## 💡 보충내용 <br>
