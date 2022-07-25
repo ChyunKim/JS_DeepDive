@@ -102,3 +102,8 @@ var anonyFunc = function() {};
 console.log(anonyFunc.name);                // anonyFunc => ES5 에서는 빈 문자열을 갖음
 
 
+// __proto__ 접근자 프로퍼티
+// 모든 객체는 [[prototype]] 내부 슬롯을 갖음 => 내부슬롯에 직접 접근할 수 없으며 __proto__ 접근자 프로퍼티를 통해 간접적으로 프로토타입 객체 접근
+
+// prototype 프로퍼티
+// prototype 프로퍼티는 생성자 함수로 호출할 수 있는 함수객체 즉, constructor 만이 소유하는 프로퍼티
