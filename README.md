@@ -28,3 +28,4 @@
 ## 💡 보충내용 <br>
 - [plus1 - hoisting](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/plus1.md)
 - [plus2 - getter/setter](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/plus2.md)
+- [plus3 - constructor function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/plus3.md)
