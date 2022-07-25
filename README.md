@@ -8,7 +8,7 @@
 ✔ 코드를 작성하고 예제문제를 풀어봄으로써 개념 학습<br>
 ✔ 코어 자바스크립트 책과 병행하며 학습 <br>
 <br>
-<strong>React 학습 전 DeepDive를 통해 JS 기본개념과 동작원리를 정확히 학습하자!</strong>
+<strong>React 학습 전 DeepDive를 통해 JS 기본개념과 동작원리를 정확히 이해하자!</strong>
 <br>
 <br>
 
@@ -22,6 +22,7 @@
 - [std7 - scope](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std7.js)
 - [std8 - property](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std8.js)
 - [std9 - constructor function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std9.js)
+- [std10 - first-class citizen]()
 <br>
 
 ## 💡 보충내용 <br>
