@@ -30,7 +30,10 @@
 - [plus1 - hoisting](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/plus1.md)
 - [plus2 - getter/setter](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/plus2.md)
 - [plus3 - constructor function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/plus3.md)
-<br><br><br><br>
+<br>
 
 ## 🐯 코어자바스크립트 병행 학습내용<br>
-
+- [ch1 - datatype](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/ch1.md)
+- [ch2 - execution context](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/ch2.md)
+- [ch3 - this](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/ch2.md)
+ 
