@@ -30,5 +30,7 @@
 - [plus1 - hoisting](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/plus1.md)
 - [plus2 - getter/setter](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/plus2.md)
 - [plus3 - constructor function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/plus3.md)
-<br>
+<br><br><br><br>
+
+## 🐯 코어자바스크립트 병행 학습내용<br>
 
