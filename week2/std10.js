@@ -107,3 +107,8 @@ console.log(anonyFunc.name);                // anonyFunc => ES5 에서는 빈 �
 
 // prototype 프로퍼티
 // prototype 프로퍼티는 생성자 함수로 호출할 수 있는 함수객체 즉, constructor 만이 소유하는 프로퍼티
+
+
+// 프로토타입 객체
+// 객체간 상속을 구현하기 위해 사용
+
