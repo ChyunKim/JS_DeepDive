@@ -32,6 +32,11 @@
 - [plus3 - constructor function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/plus3.md)
 <br>
 
+## 📝 예제실습 <br>
+- [ex1 - String 내장객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/EX1.js)
+- [ex2 - Set 객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/EX2.js)
+<br>
+
 ## 🐯 코어자바스크립트 병행 학습내용<br>
 - [ch1 - datatype](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/ch1.md)
 - [ch2 - execution context](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/ch2.md)
