@@ -17,8 +17,8 @@
 - [std2 - switch문](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std2.js)
 - [std3 - for문](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std3.js)
 - [std4 - typecasting](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std4.js)
-- [std5 - object](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std5.js)
-- [std6 - function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std6.js)
+- [std5 - Object](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std5.js)
+- [std6 - Function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std6.js)
 - [std7 - scope](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std7.js)
 - [std8 - property](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std8.js)
 - [std9 - constructor function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std9.js)
@@ -33,8 +33,8 @@
 <br>
 
 ## 📝 예제실습 <br>
-- [ex1 - string 내장객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/EX1.js)
-- [ex2 - set 객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/EX2.js)
+- [ex1 - String 내장객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/EX1.js)
+- [ex2 - Set 객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/EX2.js)
 <br>
 
 ## 🐯 코어자바스크립트 병행 학습내용<br>
