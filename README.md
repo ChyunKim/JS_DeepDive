@@ -24,17 +24,22 @@
 - [std9 - constructor function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/std9.js)
 - [std10 - first-class citizen](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/std10.js)
 - [std11 - prototype](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/std11.js)
+- [std12 - this](https://github.com/ChyunKim/JS_DeepDive/blob/main/week4/std12.js)
+
 <br>
 
 ## 💡 보충내용 <br>
 - [plus1 - hoisting](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/plus1.md)
 - [plus2 - getter/setter](https://github.com/ChyunKim/JS_DeepDive/blob/main/week1/plus2.md)
 - [plus3 - constructor function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/plus3.md)
+- [plus4 - for in, for of, forEach, map 차이](https://github.com/ChyunKim/JS_DeepDive/blob/main/week4/plus4.md)
+  
 <br>
 
 ## 📝 예제실습 <br>
 - [ex1 - String 내장객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/EX1.js)
 - [ex2 - Set 객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/EX2.js)
+- [ex3 - Map 객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week4/EX3.js)
 <br>
 
 ## 🐯 코어자바스크립트 병행 학습내용<br>
