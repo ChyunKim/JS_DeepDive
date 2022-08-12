@@ -40,6 +40,8 @@
 - [ex1 - String 내장객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/EX1.js)
 - [ex2 - Set 객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/EX2.js)
 - [ex3 - Map 객체](https://github.com/ChyunKim/JS_DeepDive/blob/main/week4/EX3.js)
+- [ex4 - Array](https://github.com/ChyunKim/JS_DeepDive/blob/main/week4/EX4.js)
+
 <br>
 
 ## 🐯 코어자바스크립트 병행 학습내용<br>
