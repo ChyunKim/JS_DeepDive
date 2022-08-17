@@ -25,6 +25,7 @@
 - [std10 - first-class citizen](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/std10.js)
 - [std11 - prototype](https://github.com/ChyunKim/JS_DeepDive/blob/main/week2/std11.js)
 - [std12 - this](https://github.com/ChyunKim/JS_DeepDive/blob/main/week4/std12.js)
+- [std13 - asynchronous](https://github.com/ChyunKim/JS_DeepDive/blob/main/week4/std13.js)
 
 <br>
 
