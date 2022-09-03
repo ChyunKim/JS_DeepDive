@@ -50,3 +50,4 @@
 - [ch2 - execution context](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/ch2.md)
 - [ch3 - this](https://github.com/ChyunKim/JS_DeepDive/blob/main/week3/ch3.md)
 - [ch4 - callback function](https://github.com/ChyunKim/JS_DeepDive/blob/main/week4/ch4.md)
+- [ch5 - closure](https://github.com/ChyunKim/JS_DeepDive/blob/main/week4/ch5.md)
